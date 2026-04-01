@@ -1,8 +1,8 @@
-# AxioFlow Suite — Terms of Use (EULA)
+# AxioFlow Business — Terms of Use (EULA)
 
 **Last Updated: March 5, 2026**
 
-Please read these Terms of Use ("Terms") carefully before using the AxioFlow Suite mobile application ("App") operated by AxioFlow Suite ("we," "us," or "our").
+Please read these Terms of Use ("Terms") carefully before using the AxioFlow Business mobile application ("App") operated by AxioFlow Business ("we," "us," or "our").
 
 By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
@@ -10,11 +10,11 @@ By downloading, installing, or using the App, you agree to be bound by these Ter
 
 ## 1. Description of Service
 
-AxioFlow Suite is a multi-business management app that allows users to track income, expenses, transactions, and generate reports for their businesses.
+AxioFlow Business is a multi-business management app that allows users to track income, expenses, transactions, and generate reports for their businesses.
 
 ## 2. Subscription Terms
 
-AxioFlow Suite offers auto-renewable subscription plans ("AxioFlow Pro") available via in-app purchase:
+AxioFlow Business offers auto-renewable subscription plans ("AxioFlow Pro") available via in-app purchase:
 
 - **Monthly Plan** — billed monthly
 - **Yearly Plan** — billed yearly
@@ -52,7 +52,7 @@ You agree not to:
 
 ## 6. Intellectual Property
 
-All content, design, code, and branding in AxioFlow Suite are the property of AxioFlow Suite and are protected by applicable intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to use the App for personal or business management purposes.
+All content, design, code, and branding in AxioFlow Business are the property of AxioFlow Business and are protected by applicable intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to use the App for personal or business management purposes.
 
 ## 7. Disclaimer of Warranties
 
@@ -82,4 +82,4 @@ If you have any questions about these Terms, please contact us at:
 
 ---
 
-*By using AxioFlow Suite, you acknowledge that you have read and agree to these Terms of Use.*
+*By using AxioFlow Business, you acknowledge that you have read and agree to these Terms of Use.*
